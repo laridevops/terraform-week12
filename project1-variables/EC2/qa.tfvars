@@ -1,0 +1,6 @@
+ami = "ami-0230bd60aa48260c6"
+instancetype = "t2.micro"
+instanceregion = "us-east-1a"
+versionregion = "us-east-1"
+profile = "default"
+name = "HelloWorld-QA"
